@@ -1,2 +1,1 @@
 # Click_Through_Rate_Optimization_Google_Search_Console
-# Click_Through_Rate_Optimization_Google_Search_Console
