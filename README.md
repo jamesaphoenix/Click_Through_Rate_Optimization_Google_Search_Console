@@ -8,5 +8,5 @@ Simply load up the Jupyter Notebook, download 3 months worth of data from Google
 
 #### Files in this repository:
 
-* [Capstone.html](https://jamesaphoenix.github.io/Capstone_Project_Predicting_Article_Shares/Capstone_Final_Report.html) - Capstone Report and Model Outputs - This is the best way to view it.
-* [CTR_Optimisation_Code.ipynb](/docs/Capstone_Final_Report.ipynb) - Capstone Report and Model Outputs - Uses Github's preview for Jupyter Notebook. 
+
+* [CTR_Optimisation_Code.ipynb](https://github.com/jamesaphoenix/Click_Through_Rate_Optimization_Google_Search_Console/blob/master/CTR_Optimization_Notebook) 
