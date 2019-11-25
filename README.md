@@ -1,6 +1,6 @@
 # Click Through Rate (CTR %) Optimisation With Google Search Console Data
 
-This micro-project focuses on ranking pages in terms of opportunity for optimising their <title> tags / meta-descriptionns.
+This micro-project focuses on ranking pages in terms of opportunity for optimising their <title> tags / meta-descriptions.
   
 Simply load up the Jupyter Notebook, download 3 months worth of data from Google Search Console and you will be able to use the code.
 
